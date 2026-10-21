@@ -2,7 +2,7 @@
 
 Una web sencilla que muestra **una frase motivadora distinta cada día**, con la fecha debajo. Sin servidor, sin base de datos: solo HTML, CSS y JavaScript.
 
-🔗 **Ver la web:** https://tuusuario.github.io/frase-del-dia
+🔗 **Ver la web:** https://adrianapereira-ops.github.io/MotivationalQuotes
 
 ---
 
